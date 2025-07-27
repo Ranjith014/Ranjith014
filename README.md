@@ -1,4 +1,4 @@
-![logo](https://github.com/Ranjith014/Ranjith014/blob/main/Blue%20and%20White%20Futuristic%20AI%20Technology%20Banner.jpg)
+![logo](https://github.com/Ranjith014/Ranjith014/blob/Blue and White Futuristic AI Technology Banner.png)
 <h1 align="center">Hi 👋, I'm B.Ranjith Kumar Shetty</h1>
 <h3 align="center">Enthusiastic Fresher | Eager to Learn, Grow & Contribute Professionally</h3>
 
